@@ -2,6 +2,10 @@
 
 PowerShell module to manage Pembroke PS alerts
 
+## Build Status
+
+![Build status](https://ci.appveyor.com/api/projects/status/github/jpsider/PembrokePSalert?branch=master&svg=true)
+
 ## GitPitch PitchMe presentation
 
 * [gitpitch.com/jpsider/PembrokePSalert](https://gitpitch.com/jpsider/PembrokePSalert)
